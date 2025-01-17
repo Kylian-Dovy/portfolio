@@ -56,3 +56,33 @@ body {
   text-shadow : 1px 1px 10px red, 1px 1px 10px red;
   cursor: url(''), auto;
 }
+
+.apropos {
+  color: inherit;
+}
+
+.apropos:hover {
+  color: inherit;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.projets {
+  color: inherit;
+}
+
+.projets:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.contact {
+  color: inherit;
+}
+
+.contact:hover {
+  color: inherit;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
